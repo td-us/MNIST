@@ -1,6 +1,6 @@
 # MNIST
 Predicting MNIST digits without using full image
-<br>
+<br><br>
 Datasets used: MNIST from sklearn datasets
 <br><br>
 Feature engineering:
